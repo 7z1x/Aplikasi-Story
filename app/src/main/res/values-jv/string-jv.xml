@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">LoginWithAnimation</string>
+    <string name="signup">Ndaftar</string>
+    <string name="login">Mlebu</string>
+    <string name="message_welcome_page">Sugeng rawuh ing Aplikasi Story! Ayo nuduhake crita lan pengalaman sampeyan karo kita.</string>
+    <string name="title_welcome_page">Nuduhake Crita lan Pengalaman</string>
+    <string name="title_signup_page">Rampungake data ing ngisor iki</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Ketik data sampeyan dhisik</string>
+    <string name="title_login_page">Kisahmu, Duniamu: Ayo mlebu!</string>
+    <string name="name">Jeneng</string>
+    <string name="message_main_page">Sugeng rawuh ing Aplikasi Story</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Metu</string>
+    <string name="imageDescription">Gambar kaca mlebu</string>
+    <string name="edt_email_hint">Ketik email sampeyan</string>
+    <string name="invalid_email">Alamat email ora sah</string>
+    <string name="edt_password_hint">Ketik sandhi</string>
+    <string name="invalid_password">Tembung sandhi kudu ora kurang saka 8 karakter</string>
+    <string name="username">Ketik jenenge sampeyan</string>
+    <string name="button_enabled_login">Mlebu</string>
+    <string name="button_enabled_register">Ndaftar</string>
+    <string name="button_text_disabled">Mangga Ketik Data</string>
+    <string name="register_dialog_message">Akun sampeyan wis siyap. mlebu lan langsung nuduhake crita sampeyan.</string>
+    <string name="dialog_positive_button">Lanjot</string>
+    <string name="register_failed">Mlebet gagal! Ketik email lan sandhi sing bener!</string>
+    <string name="login_dialog_message">Sampeyan wis kasil mlebu!</string>
+    <string name="login_failed_dialog_title">Nuwun sewu</string>
+    <string name="login_failed_dialog">Mlebet gagal! Ketik data email lan sandhi kanthi bener!</string>
+    <string name="story_image">Gambar crita</string>
+    <string name="description">Katrangan</string>
+    <string name="language">Basa</string>
+    <string name="camera">kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="description_hint">Tulis deskripsi sampeyan ...</string>
+    <string name="upload">Unggah</string>
+    <string name="setting">Setelan</string>
+    <string name="add_story_button">Tombol nambah crita</string>
+    <string name="logout_dialog_title">Metu</string>
+    <string name="logout_dialog_message">Apa sampeyan yakin arep lunga?</string>
+    <string name="yes">Nggeh</string>
+    <string name="no">Ora</string>
+    <string name="appbar">Aplikasi Crita</string>
+    <string name="upload_page_title">Unggah Crita</string>
+    <string name="upload_dialog_message">Yeay, critane sampeyan wis diunggah</string>
+    <string name="empty_image_warning">Mangga lebokake file gambar dhisik!</string>
+    <string name="detail_page_title">Detail Ceritane</string>
+    <string name="enabled_text">Gass...</string>
+    <string-array name="language_array">
+        <item>English</item>
+        <item>Indonesia</item>
+        <item>Jawa</item>
+    </string-array>
+</resources>
