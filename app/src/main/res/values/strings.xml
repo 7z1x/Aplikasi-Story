@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Welcome to the Story App! Let\'s share your stories and experiences with us.</string>
+    <string name="title_welcome_page">Sharing Stories and Experiences</string>
+    <string name="title_signup_page">Complete your data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your data first</string>
+    <string name="title_login_page">Your Story, Your World: Come on in!</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Welcome to the Story App</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="imageDescription">Login page image</string>
+    <string name="edt_email_hint">Enter your email</string>
+    <string name="invalid_email">Invalid email address</string>
+    <string name="edt_password_hint">Enter your password</string>
+    <string name="invalid_password">Password must not be less than 8 characters</string>
+    <string name="username">Enter your name</string>
+    <string name="button_enabled_login">Login</string>
+    <string name="button_enabled_register">SignUp</string>
+    <string name="button_text_disabled">Please Enter Data</string>
+    <string name="register_dialog_message">your account is ready. login and immediately share your story.</string>
+    <string name="dialog_positive_button">Next</string>
+    <string name="register_failed">Login failed! Enter the correct email and password!</string>
+    <string name="login_dialog_message">You have successfully logged in!</string>
+    <string name="login_failed_dialog_title">Sorry</string>
+    <string name="login_failed_dialog">Login failed! Enter your email and password data correctly</string>
+    <string name="story_image">Story image</string>
+    <string name="description">Description</string>
+    <string name="yeah">Lets gooo...</string>
+    <string name="language">Language</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description_hint">Write your description...</string>
+    <string name="upload">Upload</string>
+    <string name="setting">Setting</string>
+    <string name="add_story_button">Add story button</string>
+    <string name="logout_dialog_title">Logout</string>
+    <string name="logout_dialog_message">Are you sure you want to leave?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="appbar">StoryApp</string>
+    <string name="upload_page_title">Upload Story</string>
+    <string name="upload_dialog_message">Yeay, your story has been uploaded</string>
+    <string name="empty_image_warning">Please insert the image file first!</string>
+    <string name="detail_page_title">Detail Story</string>
+    <string name="enabled_text">Login</string>
+    <string name="disabled_text">Please Enter Data</string>
+    <string name="maps">Maps</string>
+    <string-array name="language_array">
+        <item>English</item>
+        <item>Indonesia</item>
+        <item>Jawa</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="gps_tittle">GPS is not active</string>
+    <string name="gps_message">Turn on your Devices GPS to share your location!</string>
+    <string name="error_no_location">Location is not available</string>
+    <string name="label_location">Location</string>
+    <string name="retry">Please try again</string>
+    <string name="get_new_location">Get New Location</string>
+    <string name="longtitute">Long: %s</string>
+    <string name="latitude">Lat: %s</string>
+</resources>
